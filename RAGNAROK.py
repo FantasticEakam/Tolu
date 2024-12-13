@@ -1,4 +1,3 @@
-import flask
 import telebot
 import subprocess
 import requests
